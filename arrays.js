@@ -10,3 +10,10 @@ console.log(books);
 var books ="true"
 console.log(books);
 //pop method returns last element and take it off.
+
+//Demonstrate your understanding of index positions in this file.
+/*
+An index is reference to a position in a function;
+The order of the position.
+It can return the value of the specified attribute for the current position,
+or the position with the supplied index number 8*/
